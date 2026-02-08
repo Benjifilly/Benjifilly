@@ -4,7 +4,8 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Benjamin.<br>
-        Learning python to enter the professional world .<br>
+        Student at <b>ESIEA</b> 🎓<br>
+        Currently learning C and Python to master software engineering.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/benjamin-filly-05427727a/">
@@ -12,31 +13,24 @@
     </a>
 </p>
 
-# Depot description
+# Repository Description
 
-Welcome to my repository! This is where I store all my work done with <a style="font-weight: bold;" href="https://www.naas.ai/">Naas</a>. Here you'll find a collection of code, documentation and resources that showcase my skills and experience. 
+Welcome to my repository! This is where I store my academic projects, personal code, and documentation. It serves as a portfolio of my journey as an engineering student.
 
 ## Introduction
 
-In this repository, I maintain a complete collection of my work done with <a style="font-weight: bold;" href="https://www.naas.ai/">Naas</a>, ranging from personal projects to collaborative efforts.
+In this repository, you'll find a mix of school projects (ESIEA) and personal experiments. I am currently focusing on low-level programming and software development fundamentals.
 
-## Projects
+## Past Contributions
 
-Feel free to explore each project's folder to learn more about its details, implementation and potential use cases.
+Before my engineering studies, I actively contributed to <a style="font-weight: bold;" href="https://www.naas.ai/">Naas</a> projects. You may find some legacy code or scripts related to data automation here, reflecting my earlier work in Python.
 
-## Contributions
+## Projects & Usage
 
-
-The contributions I make can include bug fixes, feature enhancements, documentation improvements, or any other form of support I've provided to  this project. 
-
-<a style="font-weight: bold;" href="https://www.naas.ai/">Naas</a>
-
-## Usage
-
-The code, resources, and documentation provided in this repository are primarily for informational and educational purposes.
-Feel free to browse, learn, and adapt the content to suit your own needs. However, please note that any usage of the materials should adhere to the accompanying license (if applicable) and any restrictions or guidelines provided within individual project or contribution folders.
+The code and resources provided here are primarily for educational purposes. Feel free to browse, learn, and adapt the content to suit your own needs.
 
 ### Languages
+[![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://github.com/Benjifilly)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Benjifilly)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/Benjifilly)
 
@@ -63,6 +57,6 @@ Feel free to browse, learn, and adapt the content to suit your own needs. Howeve
 
 <p align="center">
   <a href="https://github.com/Benjifilly">
-    <img src="https://komarev.com/ghpvc/?username=Benjifilly&color=blue&style=flat)" />
+    <img src="https://komarev.com/ghpvc/?username=Benjifilly&color=blue&style=flat" />
   </a>
 </p>
